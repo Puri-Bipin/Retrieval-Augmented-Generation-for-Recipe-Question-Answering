@@ -1,0 +1,9 @@
+torch>=2.0.0
+unsloth
+langchain
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+scikit-learn
+pandas
+numpy
